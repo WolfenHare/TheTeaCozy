@@ -58,7 +58,7 @@ body {
 .mission {
   height: 700px;
   width:1200px;
-  background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg");
+  background-image: url("Images/img-mission-background.jpg");
   background-position: center;
   background-repeat: no-repeat;
   align-content:center;
@@ -133,7 +133,7 @@ body {
 .location {
   height:750px;
   width: 1200px;
-  background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg");
+  background-image: url("Images/img-locations-background.jpg");
   background-position: center;
   background-repeat: no-repeat;
   display:flex;
